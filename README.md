@@ -34,8 +34,8 @@ Eu particularmente escolhi o Gambit, Spider-man e o Killmonger.
 luis.silva@kinghost.com.br
 ## Autores e agradecimentos
 Luis Felipe Rosa Silva
+Jesus Hilario
 
-Este desafio foi lançado com o intuito de um processo interno de vaga de desenvolvimento da **KingHost**, foi uma ótima oportunidade, pois gosto de desafios e logo após a avaliação do projeto ele será publicado no git para ser evoluido.
 ## Licença
 [MIT](http://opensource.org/licenses/mit-license.php)
  
